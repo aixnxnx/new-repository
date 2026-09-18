@@ -1,6 +1,8 @@
 body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size:40px;
   color:midnightblue;
   background-color: aliceblue;
   min-height: 100vh;
+
 }
