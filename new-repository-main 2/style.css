@@ -1,0 +1,15 @@
+body {
+  background-color: aliceblue;
+  min-height: 100vh;
+}
+h1, p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:midnightblue;
+}
+h1 {
+  font-size:96px;
+  letter-spacing: 0.4cap;
+}
+p {
+  font-size:40px;
+}
