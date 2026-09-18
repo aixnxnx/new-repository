@@ -1,8 +1,14 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size:40px;
-  color:midnightblue;
   background-color: aliceblue;
   min-height: 100vh;
-
+}
+h1, p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:midnightblue;
+}
+h1 {
+  font-size:96px;
+}
+p {
+  font-size:40px;
 }
