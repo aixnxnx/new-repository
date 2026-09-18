@@ -1,11 +1,16 @@
 body {
   background-color: aliceblue;
+  margin-top:3rem;
+  margin-left:3rem;
+  margin-right:3rem;
+  margin-bottom:3rem;
   min-height: 100vh;
   border-style:dotted;
 }
 h1, p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color:midnightblue;
+  margin-left:4rem;
   text-shadow: 10px 10px 10px  rgb(177, 177, 248);
 }
 h1 {
