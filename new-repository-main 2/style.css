@@ -16,7 +16,12 @@ h1, p {
 h1 {
   font-size:96px;
   letter-spacing: 0.4cap;
+  cursor:default;
 }
 p {
   font-size:40px;
+}
+p:hover {
+  color:fuchsia;
+  cursor:pointer;
 }
