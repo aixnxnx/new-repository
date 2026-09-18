@@ -22,6 +22,6 @@ p {
   font-size:40px;
 }
 p:hover {
-  color:fuchsia;
+  color:rgb(255, 0, 64);
   cursor:pointer;
 }
