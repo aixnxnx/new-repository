@@ -1,6 +1,7 @@
 body {
   background-color: aliceblue;
   min-height: 100vh;
+  border-style:dotted;
 }
 h1, p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
